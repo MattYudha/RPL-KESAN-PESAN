@@ -102,7 +102,7 @@ const Footer = () => {
                 <Calendar className="h-4 w-4 mt-1 flex-shrink-0" />
                 <div>
                   <div className="font-medium">Semester 6</div>
-                  <div className="text-sm">Tahun Akademik 2024</div>
+                  <div className="text-sm">Tahun Akademik 2025</div>
                 </div>
               </li>
             </ul>

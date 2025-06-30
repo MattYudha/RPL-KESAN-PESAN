@@ -113,7 +113,7 @@ const Aside = () => {
             <p className="text-xs text-gray-600 mb-2">Shandi Noris, S.Kom., M.Kom.</p>
             <div className="text-xs text-gray-500">
               <div>Rekayasa Perangkat Lunak</div>
-              <div>Semester 6 - 2024</div>
+              <div>Semester 6 - 2025</div>
             </div>
           </div>
         </div>
